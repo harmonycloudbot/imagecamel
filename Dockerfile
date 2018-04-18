@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/pause-amd64:3.0
+FROM gcr.io/kubeflow-images-staging/tf_operator:v20180329-a7511ff
