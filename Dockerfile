@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/pause-amd64:3.0
+FROM k8s.gcr.io/kube-scheduler:v1.15.4
